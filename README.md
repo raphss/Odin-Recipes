@@ -1,2 +1,2 @@
-# Odin-Recipes
-Pratice exercises from: https://www.theodinproject.com
+# odin-recipes
+A website that links you to other recipes websites
